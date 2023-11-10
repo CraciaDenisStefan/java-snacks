@@ -24,7 +24,6 @@ public class Snack9 {
                 arrayDispari[indiceDispari++] = numero;
             }
         }
-
  
         System.out.print("Pari: [");
         for (int i = 0; i < indicePari; i++) {
