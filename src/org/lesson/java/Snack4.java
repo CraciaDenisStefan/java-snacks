@@ -24,6 +24,7 @@ public class Snack4 {
                 break;
             }
         }
+	    
 	    if (ePalindroma) {
             System.out.println("La stringa inserita è palindroma.");
         } else {
